@@ -1,3 +1,4 @@
+
 ERROR [org.apache.catalina.util.LifecycleBase] at org.apache.catalina.connector.Connector.startInternal(Connector.java:1008): Protocol handler start failed
 at sun.nio.ch.Net.bind0(Native Method): Address already in use: bind
 ERROR [org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter] ***************************

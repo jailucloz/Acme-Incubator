@@ -20,8 +20,10 @@
 	<acme:menu-left>
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
 
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link.alebarmor" action="https://twitter.com/home"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link.lizseth" action="http://www.youtube.com/"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link.jaime" action="http://www.google.com/"/>
+
 
 		</acme:menu-option>
 
