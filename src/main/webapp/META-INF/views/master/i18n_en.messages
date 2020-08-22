@@ -34,7 +34,13 @@ master.menu.anonymous.favourite-link.alebarmor = Ale's favourite link
 master.menu.anonymous.favourite-link.lizseth = Lizseth's favourite link
 master.menu.anonymous.favourite-link.jaime = Jaime's favourite link
 
+# master.menu.anonymous.bulletin #######################################################
 
+master.menu.anonymous.bulletin = Bulletins
+
+master.menu.anonymous.bulletin.barba = Barba Bulletin
+master.menu.anonymous.bulletin.esquen = Esquen Bulletin
+master.menu.anonymous.bulletin.lucas = Lucas Bulletin
 
 # master.menu.administrator ###################################################
 

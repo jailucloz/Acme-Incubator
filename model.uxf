@@ -296,4 +296,52 @@ m2=*
 has v</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;120.0</additional_attributes>
   </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>119</x>
+      <y>399</y>
+      <w>217</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>BarbaBulletin
+--
++ moment: Date {Temporal(TIMESTAMP), Past}
++ author: String {NotBlank}
++ text: String {NotBlank}
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>357</x>
+      <y>399</y>
+      <w>217</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>LucasBulletin
+--
++ moment: Date {Temporal(TIMESTAMP), Past}
++ author: String {NotBlank}
++ text: String {NotBlank}
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>595</x>
+      <y>399</y>
+      <w>217</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>EsquenBulletin
+--
++ moment: Date {Temporal(TIMESTAMP), Past}
++ author: String {NotBlank}
++ text: String {NotBlank}
+</panel_attributes>
+    <additional_attributes/>
+  </element>
 </diagram>

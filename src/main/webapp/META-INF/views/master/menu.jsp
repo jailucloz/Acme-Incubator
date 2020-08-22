@@ -20,11 +20,17 @@
 	<acme:menu-left>
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
 
-			<acme:menu-suboption code="master.menu.anonymous.favourite-link.alebarmor" action="https://twitter.com/home"/>
+			
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link.lizseth" action="http://www.youtube.com/"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link.jaime" action="http://www.google.com/"/>
 
 
+		</acme:menu-option>
+		
+		<acme:menu-option code="master.menu.anonymous.bulletin" access="isAnonymous()">
+			<acme:menu-suboption code="master.menu.anonymous.bulletin.barba" action="/anonymous/bbulletin/list"/>
+			<acme:menu-suboption code="master.menu.anonymous.bulletin.esquen" action="/anonymous/ebulletin/list"/>
+			<acme:menu-suboption code="master.menu.anonymous.bulletin.lucas" action="/anonymous/lbulletin/list"/>
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
