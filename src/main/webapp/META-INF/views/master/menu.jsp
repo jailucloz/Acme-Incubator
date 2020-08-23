@@ -23,6 +23,7 @@
 			
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link.lizseth" action="http://www.youtube.com/"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link.jaime" action="http://www.google.com/"/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link.alejandro" action="https://twitter.com/home?lang=es"/>
 
 
 		</acme:menu-option>
