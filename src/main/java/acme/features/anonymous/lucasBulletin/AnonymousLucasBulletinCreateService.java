@@ -57,7 +57,7 @@ public class AnonymousLucasBulletinCreateService implements AbstractCreateServic
 		moment = new Date(System.currentTimeMillis() - 1);
 
 		result = new LucasBulletin();
-		result.setAuthor("Lizseth Katherine Esquen");
+		result.setAuthor("Jaime Lucas");
 		result.setText("Lorem ipsum!");
 		result.setMoment(moment);
 
