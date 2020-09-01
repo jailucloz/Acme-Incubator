@@ -9,6 +9,7 @@
             "file": "target/acme-incubator-1.0.war",
             "context": "/",
             "port": 80
+            
         }]
     }
 }
